@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BottomNavigationFragments</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="title_principal">Principal</string>
+    <string name="title_registro">Registro</string>
+    <string name="title_musica">Música</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="valtitlefragments">Fragmentos en Android</string>
+    <string name="valetfullname">Enter full name</string>
+    <string name="valetemail">Enter email</string>
+    <string name="valrbmale">Male</string>
+    <string name="valrbfemale">Female</string>
+    <string name="valrbothers">Others</string>
+    <string name="valchklicense">License?</string>
+    <string name="valchkcar">Car?</string>
+    <string name="valbtnsave">SAVE</string>
+</resources>
